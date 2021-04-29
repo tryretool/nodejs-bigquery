@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "@google-cloud/common": "^0.15.1",
-    "arrify": "^1.0.0",
+    "arrify": "^3.0.0",
     "duplexify": "^3.5.0",
     "extend": "^3.0.1",
     "is": "^3.0.1",
